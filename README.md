@@ -1,3 +1,6 @@
+# Process ICAL Files
+Takes in paramaters start, end, and the file we want to parse, then outputs are the valid events that fall between the start and date
+
 * Test 1
     * Input: `one.ics`
     * Expected output: `test01.txt`
